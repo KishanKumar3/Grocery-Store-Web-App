@@ -1,0 +1,8 @@
+**/*.exe
+**/bin/*
+**/obj/*
+**/build/
+.vs
+GroceryStore.Data/Migrations
+GroceryStoreFrontEnd/.editorconfig
+GroceryStoreFrontEnd/.vscode
