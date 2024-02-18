@@ -62,7 +62,7 @@ Here is the siteMap of the web app
 - Place order
 - Sign out
 
-#### Admin has access tp:
+#### Admin has access to:
 
 - Dashboard
 - Add product
